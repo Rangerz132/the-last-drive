@@ -18,7 +18,7 @@ The game is set in 1975, in an affluent community in a small city called Rosewoo
 
 ## Development
 
-The coding structure and systems have been created by me with B2TGame using Phaser as a game engine. All of the texts and images have been made via ChatGPT and MidJourney and integrated into json files. The game serves as a demo to showcase the power behind the custom structure. The project filters the datas from json files to generate the game
+The coding structure and systems have been created by B2TGame with me using Phaser as a game engine. All game data is within json files. The project filters the data to generate the game. The game serves as a demo to showcase the power behind the custom structure. 
 
 ## Medias
 
